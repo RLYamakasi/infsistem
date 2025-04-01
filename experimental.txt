@@ -1,0 +1,5 @@
+"C:\dev\test\README.md"
+"C:\dev\test\test.txt"
+"C:\dev\test\log.log"
+"C:\dev\test\.gitignore"
+"C:\dev\test\experimental.txt"
